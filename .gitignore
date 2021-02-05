@@ -8,6 +8,7 @@ Thumbs.db
 .sass-cache
 .env
 .cache
+eleventy-from-scratch-starter-files.zip
 
 # Node modules and output
 node_modules
